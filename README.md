@@ -1,20 +1,45 @@
-iOS102PreWork 
-App Description
-TODO:// a functional app that shows us the basics of navigating Xcode and Swift.
+# Pre-work - *iOS102 Prework*
 
-App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+**iOS102 Pre-work** is the pre-work for Intermediate iOS Development.
 
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+Submitted by: **Antwon Walls**
 
-Required Features
-1. App displays an image of a school's logo
-2. App has three textfields for first, last, and school names
-3. App has a segmented control that changes student year
-4. Number of pet matches label is increased/decreased by stepper
-5. Switch makes a statement about wanting more pets or not(true/false)
-6. Introduce yourself button shows alert box with an introduciton and dismiss button
-Optional Features
-1. User can tap a button to change the color of the background view
-3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-4. Any stylistic changes that are not default options (Comment this here)
+Time spent: **6** hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [x] User can input name, last name, school name into textfield
+* [x] Screen shows picture of school logo/name
+* [x] User can select the academic year from segmented control
+* [x] Increase the number of pets label using stepper
+* [x] App presents an alert when the "Introduce Self" button is tapped
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://imgur.com/a/a9pKo3t' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+I couldn’t ever get the constraints to work to properly display everything evenly on every device. Had to seek
+outside help
+## License
+
+    Copyright [2025] [Antwon Walls]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
