@@ -20,7 +20,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/a9pKo3t' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link to GitHub: https://imgur.com/a/a9pKo3t
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
